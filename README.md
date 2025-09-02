@@ -10,22 +10,21 @@ Email Me 👉 ✉️ **mohamedalinasr4444@gmail.com** For Collaboration/Project 
 - 📫 **How to reach me:** mohamedalinasr4444@gmail.com
 - 😄 **Pronouns:** Mohamed Nasr
 - ⚡ **Fun fact:** I Love Tech and Tech Love Me.
+
+### [📄 Check My CV](https://drive.google.com/file/d/1EuHGwByYTLUvLmmxcx1o67anRSiI0pZR/view?usp=sharing)
+
+### [🌐 View My Portfolio](https://personal-portfolio-vert-five-46.vercel.app/)
   
   
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/mohamed-ali-nasr-4a824325b/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mohamedalinasr4444@gmail.com) 
-
-
-<!-- Snake Game Repo View -->
-
-<div align="center">
-  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
-</div>
-
-## 🏆 GitHub Trophies
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app?username=Mohamed-Ali-Nasr&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
-</div>
+### `📤 Contact & Social:`
+  <p align="left">
+    <a href="mailto:mohamedalinasr4444@gmail.com"> <!-- Gmail -->
+      <img src="https://github.com/user-attachments/assets/1a97a051-cc24-4738-a7a2-3f53365a9e93" height="35"/>
+    </a>&nbsp;
+    <a href="https://www.linkedin.com/in/mohamed-ali-nasr-4a824325b/"> <!-- LinkedIn Profile -->
+      <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="45"/>
+    </a>&nbsp;
+  </p>
 
 # 💻 Tech Stack:
 <div align="center">
@@ -78,6 +77,17 @@ Email Me 👉 ✉️ **mohamedalinasr4444@gmail.com** For Collaboration/Project 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/threejs/threejs-original.svg" height="60" alt="threejs logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="60" alt="vscode logo"  />
+</div>
+
+## 🏆 GitHub Trophies
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app?username=Mohamed-Ali-Nasr&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
+</div>
+
+<!-- Snake Game Repo View -->
+
+<div align="center">
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
 </div>
 
 # 📊 GitHub Stats:
